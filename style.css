@@ -1,0 +1,11 @@
+body{
+    font-family: cursive;
+    background:linear-gradient(to right, purple, rgb(155, 67, 155));
+    background-position: bottom right;
+    background-size: cover;
+}
+
+canvas{
+    border: 5px white inset;
+    margin-top: 80px;
+}
